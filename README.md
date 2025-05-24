@@ -2,10 +2,6 @@
 
 Bug tracking app made with PERN + TS
 
-## Demo
-
-[Deployed on Netlify (front-end) & Heroku (back-end)](https://abugtracker.netlify.app)
-
 ## Built using
 
 #### Front-end
